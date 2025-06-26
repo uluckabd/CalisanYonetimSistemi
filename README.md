@@ -4,24 +4,23 @@ C dilinde geliştirilen, temel CRUD işlemleri yapan ve terminalde çalıştır�
 Bu basit C dilinde yazılmış konsol tabanlı çalışan yönetim sistemi, kullanıcıdan alınan bilgilerle çalışanları kayıt altına alır ve çeşitli işlemler yapılmasına olanak tanır.
 
  Özellikler:
-🆔 Aynı ID numarasının tekrar girilmesini engeller
+ - Aynı ID numarasının tekrar girilmesini engeller
 
-🔢 Sayı yerine harf/sembol girilirse hata verir, yeniden giriş ister
+ - Sayı yerine harf/sembol girilirse hata verir, yeniden giriş ister
 
-🔤 İsim ve meslek alanlarında sadece harf girişi kabul edilir
+ -İsim ve meslek alanlarında sadece harf girişi kabul edilir
 
-➕ Çalışan ekleme
+ - Çalışan ekleme
 
-❌ Çalışan silme
+ - Çalışan silme
 
-🔍 Çalışan arama (ID ile)
+ - Çalışan arama (ID ile)
 
-📊 Çalışan sayısını görüntüleme
+ - Çalışan sayısını görüntüleme
 
+ Kullanılan Teknolojiler:
+ -C Programlama Dili (C89 uyumlu)
 
-🛠️ Kullanılan Teknolojiler:
-C Programlama Dili (C89 uyumlu)
+ -Konsol/Terminal uygulaması
 
-Konsol/Terminal uygulaması
-
-stdio.h, stdlib.h, string.h, ctype.h kütüphaneleri
+ -stdio.h, stdlib.h, string.h, ctype.h kütüphaneleri
