@@ -19,6 +19,8 @@ Bu basit C dilinde yazılmış konsol tabanlı çalışan yönetim sistemi, kull
  - Çalışan sayısını görüntüleme
 
  Kullanılan Teknolojiler:
+
+ 
  -C Programlama Dili (C89 uyumlu)
 
  -Konsol/Terminal uygulaması
